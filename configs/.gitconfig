@@ -1,0 +1,8 @@
+[user]
+	email = anderson.tec12@gmail.com
+	name = Anderson Barros Silva
+[core]
+	editor = code --wait
+[alias]
+	c = !git add --all && git commit -m
+	s = !git status -s

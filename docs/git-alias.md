@@ -7,3 +7,5 @@
 ```bash
   git config --global --edit
 ```
+
+# arquivo de configuração 

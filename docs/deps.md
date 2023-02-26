@@ -16,3 +16,8 @@ Usado para comitar de forma padronizada
 ```bash
   npm i -D eslint eslint-config-standard-with-typescript@11 eslint-plugin-import eslint-plugin-promise eslint-plugin-standard @typescript-eslint/eslint-plugin eslint-plugin-node
 ```
+# lint
+Evitar commits defeituosos
+```bash
+  npm i -D lint-staged husky 
+```

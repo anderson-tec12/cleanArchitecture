@@ -21,3 +21,9 @@ Evitar commits defeituosos
 ```bash
   npm i -D lint-staged husky 
 ```
+
+# Jest 
+Lib para testes 
+```bash 
+  npm i -D jest @types/jest ts-jest
+```
